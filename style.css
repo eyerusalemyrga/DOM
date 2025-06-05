@@ -23,8 +23,13 @@
     color:blue;
 
 }
+.purchase{
+    padding-top: 400px;
+    padding-left: 1500px;
+}
 ul{
 list-style-type: none;
+    color: blue;
 
 }
 .purchase{
@@ -36,10 +41,11 @@ list-style-type: none;
 #fruit{
 padding-left: 45px;
 text-transform: uppercase;
-color: blue;
+color: gray;
 }
 #vegetable{
    padding-left: 40px; 
+    color: gray;
 }
 #see-fruit{
     color: purple;
@@ -50,6 +56,7 @@ color: blue;
     padding-left: 30px;
     border-radius: 5px;
     margin: 10px;
+    color: purple;
 
 }
 #see-fruit{
