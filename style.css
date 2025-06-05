@@ -1,0 +1,61 @@
+
+
+
+
+#container{
+    background-image:url('Images/image copy 2.png') ;
+    background-repeat: no-repeat;
+    /* background-position: cover; */
+    width: 97vw;
+    background-size: cover;
+    height: 890px;
+    position: relative;
+}
+#title{
+    padding-left: 600px;
+}
+#sell{
+    position: absolute;
+    padding-top: 1px;
+    margin-top: 1px;
+    padding-left: 650px;
+    font-size: 20px;
+    color:blue;
+
+}
+ul{
+list-style-type: none;
+
+}
+.purchase{
+    padding-top: 300px;
+}
+#add{
+    padding-left: 30px;
+}
+#fruit{
+padding-left: 45px;
+text-transform: uppercase;
+color: blue;
+}
+#vegetable{
+   padding-left: 40px; 
+}
+#see-fruit{
+    color: purple;
+}
+#see-vegetable{
+    border: 1px solid;
+    width: 100px;
+    padding-left: 30px;
+    border-radius: 5px;
+    margin: 10px;
+
+}
+#see-fruit{
+    border: 1px solid;
+    width: 100px;
+    padding-left: 30px;
+    border-radius: 5px;
+    color: purple;
+}
